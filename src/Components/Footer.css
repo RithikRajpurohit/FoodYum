@@ -1,0 +1,9 @@
+p{
+    color: grey;
+    margin-top: 4px;
+    padding: 3px;
+    margin-right: 3px;
+}
+p:hover{
+    color: rgb(194, 188, 23);
+}
